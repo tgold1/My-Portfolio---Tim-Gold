@@ -32,12 +32,20 @@ export const projects = [
     link: "https://stormy-hollows-61177.herokuapp.com/",
   },
   {
-    title: "The Tech Blog",
-    subtitle: "MVC - Model,View, Controllers",
+    title: "JATE Text Editor",
+    subtitle: "PWA - Progressive Web Application",
     description:
-      "This is a full stack application that takes the request from the front end into a response in the back end and appear with a response in the front end using MVC",
-    image: "./Techblog.png",
-    link: "https://stormy-hollows-61177.herokuapp.com/",
+      "A progressive web application that is full functional while online but also retains the same properties of the application if offline or internet connection is lost.",
+    image: "./Jate.png",
+    link: "https://lit-cliffs-63394.herokuapp.com/",
+  },
+  {
+    title: "The Note Taker",
+    subtitle: "Express Application",
+    description:
+      "An express web application with helper utility functions and implementation of a back end server to handle incoming requests.",
+    image: "./Notetaker.png",
+    link: "https://lit-cliffs-63394.herokuapp.com/",
   },
 ];
 
@@ -59,10 +67,16 @@ export const testimonials = [
 ];
 
 export const skills = [
+  "HTML",
+  "CSS",
   "JavaScript",
+  "jquery",
   "React",
-  "Next.js",
+  "Bootstrap",
+  "APIs",
   "Node",
+  "Express",
+  "MYSQL, Sequelize",
   "GraphQL",
-  "Material UI",
+  "MongoDB, Mongoose",
 ];
