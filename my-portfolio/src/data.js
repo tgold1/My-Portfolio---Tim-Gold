@@ -1,35 +1,43 @@
 export const projects = [
   {
-    title: "React Reserve",
-    subtitle: "MERN Stack",
+    title: "The Date Planner",
+    subtitle: "Front End API",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-1.gif",
-    link: "https://reactbootcamp.com",
+      "A front end group collaboration project with API, HTML, CSS, Javascript, and Bulma tools and languages.",
+    image: "./DatePlanner.png",
+    link: "https://tgold1.github.io/date_planner/",
   },
   {
-    title: "React Tracks",
-    subtitle: "React and Python",
+    title: "The Ghost Tracker",
+    subtitle: "MERN stack",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-2.gif",
-    link: "https://reactbootcamp.com",
+      "A MERN full stack application with front and back end technologies and the use of handlebars, express, and MYSQL",
+    image: "./Ghosttracker.png",
+    link: "https://quiet-wave-19391.herokuapp.com/",
   },
   {
-    title: "DevChat",
-    subtitle: "React and Firebase",
+    title: "CamarcoConsulting",
+    subtitle: "Full Stack and MongoDB",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-3.gif",
-    link: "https://reactbootcamp.com",
+      "A full stack application with front and back end functionality with the additional technologies of MongoDB and Insomnia",
+    image: "./Camarco.png",
+    link: "https://sleepy-cliffs-60033.herokuapp.com/" ,
   },
   {
-    title: "Epic Todo App",
-    subtitle: "React Hooks",
+    title: "The Tech Blog",
+    subtitle: "MVC - Model,View, Controllers",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-4.gif",
-    link: "https://reactbootcamp.com",
+      "This is a full stack application that takes the request from the front end into a response in the back end and appear with a response in the front end using MVC",
+    image: "./Techblog.png",
+    link: "https://stormy-hollows-61177.herokuapp.com/",
+  },
+  {
+    title: "The Tech Blog",
+    subtitle: "MVC - Model,View, Controllers",
+    description:
+      "This is a full stack application that takes the request from the front end into a response in the back end and appear with a response in the front end using MVC",
+    image: "./Techblog.png",
+    link: "https://stormy-hollows-61177.herokuapp.com/",
   },
 ];
 
