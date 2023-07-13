@@ -39,7 +39,7 @@ export default function About () {
           <img
             className="object-cover object-center rounded"
             alt="hero"
-            src="./coding.svg"
+            src="./Selfimage.jpg"
           />
         </div>
       </div>
