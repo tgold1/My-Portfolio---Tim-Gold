@@ -61,6 +61,7 @@ export const testimonials = [
     quote:
     "My LinkedIn Profile",
     link: "https://www.linkedin.com/in/tim-gold-81a9164a",
+    image: "./linkedin.png",
     name: "Ruben Alvarez",
     company: "Dooble.io",
   },
