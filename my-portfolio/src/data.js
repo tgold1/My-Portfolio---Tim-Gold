@@ -45,7 +45,7 @@ export const projects = [
     description:
       "An express web application with helper utility functions and implementation of a back end server to handle incoming requests.",
     image: "./Notetaker.png",
-    link: "https://lit-cliffs-63394.herokuapp.com/",
+    link: "https://protected-dusk-26151.herokuapp.com/",
   },
 ];
 

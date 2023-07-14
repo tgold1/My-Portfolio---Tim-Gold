@@ -13,7 +13,7 @@ export default function Projects() {
             </h1>
             <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
               These are the six of my past projects that I am highlighting here. Three of them are group projects to display my excellent collaboration skills. 
-              The other three are my indiviual projects that acceent my ability to build a full stack app, a front end app, and a back end app. Feel free to click on the deployed links and 
+              The other three are my indiviual projects that accent my ability to build a full stack app, a front end app, and a back end app. Feel free to click on the deployed links and 
               the Github repo to see my code. 
             </p>
           </div>
