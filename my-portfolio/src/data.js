@@ -55,16 +55,24 @@ export const testimonials = [
       "Download My Resume Here",
     link: "https://1drv.ms/b/s!AnzGKXC9XqbymD0NNReje98yDngW?e=OfWK1h",
     image: "./resume.png",
-    name: "Jesse Hicks",
-    company: "Zoozle",
   },
   {
     title:
     "My LinkedIn Profile",
     link: "https://www.linkedin.com/in/tim-gold-81a9164a",
     image: "./linkedin.png",
-    name: "Ruben Alvarez",
-    company: "Dooble.io",
+  },
+  {
+    title:
+    "My Github Profile",
+    link: "https://github.com/tgold1",
+    image: "./github.png",
+  },
+  {
+    title:
+    "My Stackoverflow Profile",
+    link: "https://stackoverflow.com/users/21932519/tgfullstack",
+    image: "./stack.png",
   },
 ];
 
