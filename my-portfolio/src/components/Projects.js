@@ -39,7 +39,9 @@ export default function Projects() {
                     <p className="leading-relaxed">{project.description}</p>
                   </div>
                 </div>
+                <a href ={project.repolink}>My Github Repo</a>
               </a>
+              
             ))}
           </div>
         </div>
